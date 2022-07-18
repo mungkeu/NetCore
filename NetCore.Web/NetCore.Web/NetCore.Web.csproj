@@ -6,4 +6,8 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\NetCore.Services\NetCore.Services.csproj" />
+  </ItemGroup>
+
 </Project>

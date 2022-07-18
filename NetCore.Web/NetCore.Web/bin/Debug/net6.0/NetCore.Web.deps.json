@@ -7,14 +7,40 @@
   "targets": {
     ".NETCoreApp,Version=v6.0": {
       "NetCore.Web/1.0.0": {
+        "dependencies": {
+          "NetCore.Services": "1.0.0"
+        },
         "runtime": {
           "NetCore.Web.dll": {}
+        }
+      },
+      "NetCore.Data/1.0.0": {
+        "runtime": {
+          "NetCore.Data.dll": {}
+        }
+      },
+      "NetCore.Services/1.0.0": {
+        "dependencies": {
+          "NetCore.Data": "1.0.0"
+        },
+        "runtime": {
+          "NetCore.Services.dll": {}
         }
       }
     }
   },
   "libraries": {
     "NetCore.Web/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NetCore.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NetCore.Services/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

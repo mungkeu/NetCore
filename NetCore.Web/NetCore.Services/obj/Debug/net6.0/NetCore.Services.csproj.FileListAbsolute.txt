@@ -1,0 +1,15 @@
+C:\Development\Lecture\NetCore\NetCore.Web\NetCore.Services\obj\Debug\net6.0\NetCore.Services.csproj.AssemblyReference.cache
+C:\Development\Lecture\NetCore\NetCore.Web\NetCore.Services\obj\Debug\net6.0\NetCore.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\Lecture\NetCore\NetCore.Web\NetCore.Services\obj\Debug\net6.0\NetCore.Services.AssemblyInfoInputs.cache
+C:\Development\Lecture\NetCore\NetCore.Web\NetCore.Services\obj\Debug\net6.0\NetCore.Services.AssemblyInfo.cs
+C:\Development\Lecture\NetCore\NetCore.Web\NetCore.Services\obj\Debug\net6.0\NetCore.Services.csproj.CoreCompileInputs.cache
+C:\Development\Lecture\NetCore\NetCore.Web\NetCore.Services\bin\Debug\net6.0\NetCore.Services.deps.json
+C:\Development\Lecture\NetCore\NetCore.Web\NetCore.Services\bin\Debug\net6.0\NetCore.Services.dll
+C:\Development\Lecture\NetCore\NetCore.Web\NetCore.Services\bin\Debug\net6.0\NetCore.Services.pdb
+C:\Development\Lecture\NetCore\NetCore.Web\NetCore.Services\bin\Debug\net6.0\NetCore.Data.dll
+C:\Development\Lecture\NetCore\NetCore.Web\NetCore.Services\bin\Debug\net6.0\NetCore.Data.pdb
+C:\Development\Lecture\NetCore\NetCore.Web\NetCore.Services\obj\Debug\net6.0\NetCore.Services.csproj.CopyComplete
+C:\Development\Lecture\NetCore\NetCore.Web\NetCore.Services\obj\Debug\net6.0\NetCore.Services.dll
+C:\Development\Lecture\NetCore\NetCore.Web\NetCore.Services\obj\Debug\net6.0\refint\NetCore.Services.dll
+C:\Development\Lecture\NetCore\NetCore.Web\NetCore.Services\obj\Debug\net6.0\NetCore.Services.pdb
+C:\Development\Lecture\NetCore\NetCore.Web\NetCore.Services\obj\Debug\net6.0\ref\NetCore.Services.dll

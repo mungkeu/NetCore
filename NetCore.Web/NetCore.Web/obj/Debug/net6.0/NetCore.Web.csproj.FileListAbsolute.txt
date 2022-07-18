@@ -24,3 +24,8 @@ C:\Development\Lecture\NetCore\NetCore.Web\NetCore.Web\obj\Debug\net6.0\refint\N
 C:\Development\Lecture\NetCore\NetCore.Web\NetCore.Web\obj\Debug\net6.0\NetCore.Web.pdb
 C:\Development\Lecture\NetCore\NetCore.Web\NetCore.Web\obj\Debug\net6.0\NetCore.Web.genruntimeconfig.cache
 C:\Development\Lecture\NetCore\NetCore.Web\NetCore.Web\obj\Debug\net6.0\ref\NetCore.Web.dll
+C:\Development\Lecture\NetCore\NetCore.Web\NetCore.Web\bin\Debug\net6.0\NetCore.Data.dll
+C:\Development\Lecture\NetCore\NetCore.Web\NetCore.Web\bin\Debug\net6.0\NetCore.Services.dll
+C:\Development\Lecture\NetCore\NetCore.Web\NetCore.Web\bin\Debug\net6.0\NetCore.Services.pdb
+C:\Development\Lecture\NetCore\NetCore.Web\NetCore.Web\bin\Debug\net6.0\NetCore.Data.pdb
+C:\Development\Lecture\NetCore\NetCore.Web\NetCore.Web\obj\Debug\net6.0\NetCore.Web.csproj.CopyComplete

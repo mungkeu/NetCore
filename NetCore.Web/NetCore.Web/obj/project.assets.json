@@ -1,11 +1,48 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {}
+    "net6.0": {
+      "NetCore.Data/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/NetCore.Data.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/NetCore.Data.dll": {}
+        }
+      },
+      "NetCore.Services/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "NetCore.Data": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/NetCore.Services.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/NetCore.Services.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "NetCore.Data/1.0.0": {
+      "type": "project",
+      "path": "../NetCore.Data/NetCore.Data.csproj",
+      "msbuildProject": "../NetCore.Data/NetCore.Data.csproj"
+    },
+    "NetCore.Services/1.0.0": {
+      "type": "project",
+      "path": "../NetCore.Services/NetCore.Services.csproj",
+      "msbuildProject": "../NetCore.Services/NetCore.Services.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net6.0": []
+    "net6.0": [
+      "NetCore.Services >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\rlaud\\.nuget\\packages\\": {},
@@ -38,7 +75,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Development\\Lecture\\NetCore\\NetCore.Web\\NetCore.Services\\NetCore.Services.csproj": {
+              "projectPath": "C:\\Development\\Lecture\\NetCore\\NetCore.Web\\NetCore.Services\\NetCore.Services.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
